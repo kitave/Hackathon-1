@@ -1,0 +1,43 @@
+#header{
+    background-color:cadetblue;
+    text-align: center;
+    margin:-22px
+}
+
+#heady{
+    color:firebrick;
+}
+
+.about{
+    background-color: darkgray;
+}
+
+.head{
+    color:green;
+}
+
+.ed{
+    background-color: burlywood;
+}
+
+*{
+    margin:0;
+    padding:10px 0px 10px 0px;
+    font-family: sans-serif;
+}
+
+body{
+    text-align: center;
+}
+
+p{
+    color:midnightblue
+}
+
+a.hoover{
+    color: blueviolet;
+}
+
+a{
+    color:fuchsia
+}
